@@ -1,0 +1,21 @@
+○ 한전 제공 데이터 접근 경로(공공데이터 위주)
+
+https://www.data.go.kr/index.do 공공데이터 포털-데이터찾기-데이터목록-제공기관별검색-한국전력, 전력거래소, 한국수력원자력 등 검색
+
+https://bigdata.kepco.co.kr/cmsmain.do?scode=S01 전력통계
+
+https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000105 샘플데이터
+
+https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000502 월사용량 데이터
+
+https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000175 발전통계
+
+https://home.kepco.co.kr/kepco/KO/ntcob/list.do?boardCd=BRD_000097&menuCd=FN05030101 전력통계월보
+
+https://home.kepco.co.kr/kepco/KO/ntcob/list.do?boardCd=BRD_000099&menuCd=FN05030103 한국전력통계
+
+ 
+
+전라남도 전력소비 패턴 데이터
+
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71359
