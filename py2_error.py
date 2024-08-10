@@ -26,3 +26,4 @@ for idx,elem in enumerate(elems,1):
     except:
         print(elem)
 # %%
+#화이팅
